@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				217
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				38,
+				3
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				9,
+				-29
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-24,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-27,
+				38
+			],
+			"loop": false,
+			"anim": "attack",
+			"fps": 24,
+			"name": "Stomp0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				5,
+				59
+			],
+			"loop": false,
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "StompWindup",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "megamogus/MEGA_MOGUS",
+	"position": [
+		-240,
+		170
+	],
+	"healthicon": "mega-mogus",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		0,
+		46
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
